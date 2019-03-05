@@ -1,5 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.izettle</groupId>
@@ -9,7 +8,7 @@
     <groupId>com.amazonaws</groupId>
     <artifactId>aws-request-signing-apache-interceptor</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>aws-request-signing-apache-interceptor</name>
     <licenses>
         <license>
@@ -22,7 +21,7 @@
         <url>https://github.com/iZettle/aws-request-signing-apache-interceptor</url>
         <connection>scm:git:git://github.com/iZettle/aws-request-signing-apache-interceptor.git</connection>
         <developerConnection>scm:git:git:@github.com:iZettle/aws-request-signing-apache-interceptor.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>aws-request-signing-apache-interceptor-1.0</tag>
     </scm>
 
     <properties>
