@@ -8,7 +8,7 @@
     <groupId>com.amazonaws</groupId>
     <artifactId>aws-request-signing-apache-interceptor</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>aws-request-signing-apache-interceptor</name>
     <licenses>
         <license>
@@ -21,7 +21,7 @@
         <url>https://github.com/iZettle/aws-request-signing-apache-interceptor</url>
         <connection>scm:git:git://github.com/iZettle/aws-request-signing-apache-interceptor.git</connection>
         <developerConnection>scm:git:git:@github.com:iZettle/aws-request-signing-apache-interceptor.git</developerConnection>
-        <tag>aws-request-signing-apache-interceptor-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
